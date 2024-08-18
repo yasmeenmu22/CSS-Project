@@ -1,0 +1,67 @@
+
+ .special{
+    color: red;
+}
+ #special{
+    color: purple;
+}
+.name{
+    background-color: red; 
+   /* background-color: #ff0000;
+    background-color: rgb(0, 255, 0);
+    background-image: url(../woman-watching-movie-streaming-service-home.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    background-size: contain;*/
+   padding: 10px;
+   width: 70%;
+   margin: auto;
+}
+.assign-1-shape-1{
+    width: 500px;
+    height: 100px;
+    padding: 20px;
+    background-color: #e6e6e6;
+    background-color: rgb(138, 43, 226);
+    background-color: #e6e6e6;
+    /*background-image: url(/css-assignment-5-8.png);*/
+    background-repeat: no-repeat;
+    background-position: left top; 
+    background-color: hsla(283, 65%, 44%, 0.3);
+   
+}
+.assign-1-shape-2{
+   /*  opacity: 50%; */
+   width: 500px;
+   height: 100px;
+   padding: 20px;
+   background-color: #e6e6e6;
+   background-color: rgb(138, 43, 226);
+   background-color: #e6e6e6;
+   padding: 20px;
+   margin: auto;
+   background-repeat: repeat-y;
+   background-position: right bottom;
+}
+.assign-1-shape-3{
+    width: 500px;
+    height: 100px;
+    padding: 20px;
+    background-color: #e6e6e6;
+    background-color: rgb(138, 43, 226);
+    background-color: #e6e6e6;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    
+}
+.assign-1-shape-4{
+    width: 500px;
+    height: 100px;
+    padding: 20px;
+    background-color: #e6e6e6;
+    background-color: rgb(138, 43, 226);
+    background-color: #e6e6e6;
+    background-position: right bottom;
+    background-size: 50% 50%;
+}
