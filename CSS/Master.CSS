@@ -56,12 +56,13 @@
     
 }
 .assign-1-shape-4{
-    width: 500px;
-    height: 100px;
     padding: 20px;
-    background-color: #e6e6e6;
     background-color: rgb(138, 43, 226);
     background-color: #e6e6e6;
     background-position: right bottom;
     background-size: 50% 50%;
+    border-left: black 10px solid;
+    outline: #e6e6e6 10px solid;
+    margin: auto;
+    width: 400px;
 }
