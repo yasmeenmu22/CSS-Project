@@ -1,5 +1,5 @@
 
- .special{
+  /*.special{
     color: red;
 }
  #special{
@@ -7,13 +7,13 @@
 }
 .name{
     background-color: red; 
-   /* background-color: #ff0000;
+   background-color: #ff0000;
     background-color: rgb(0, 255, 0);
     background-image: url(../woman-watching-movie-streaming-service-home.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: left top;
-    background-size: contain;*/
+    background-size: contain;
    padding: 10px;
    width: 70%;
    margin: auto;
@@ -24,15 +24,15 @@
     padding: 20px;
     background-color: #e6e6e6;
     background-color: rgb(138, 43, 226);
-    background-color: #e6e6e6;
-    /*background-image: url(/css-assignment-5-8.png);*/
+    background-color: #e6e6e6;*/
+    /*background-image: url(/css-assignment-5-8.png);
     background-repeat: no-repeat;
     background-position: left top; 
     background-color: hsla(283, 65%, 44%, 0.3);
    
 }
-.assign-1-shape-2{
-   /*  opacity: 50%; */
+.assign-1-shape-2{*/
+   /*  opacity: 50%; 
    width: 500px;
    height: 100px;
    padding: 20px;
@@ -65,4 +65,111 @@
     outline: #e6e6e6 10px solid;
     margin: auto;
     width: 400px;
+}
+.san-ser,
+.with-san{
+    padding: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.with-ser{
+    font-family: 'Times New Roman', Times, serif;
+}
+.san-ser{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parent{
+    width: 800px;
+    background-color: lightgray;
+    padding: 15px;
+}
+
+.full-width{  
+    margin: 15px;  
+    text-align: center;
+    padding: 15px;
+    background-color: azure;
+}
+
+
+
+.child1 div{
+    width: 204px;
+    display: inline-block;  
+    text-align: center;
+    padding: 15px;
+    background-color: azure;
+    margin: 15px;
+}
+.child2 div{
+    width: 42%;
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    background-color: azure;
+    margin: 15px; 
+}
+.child3 div{
+    width: 17%;
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    background-color: azure;
+    margin: 15px; 
+}*/
+
+/*div {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color:rgb(179,179,179);  Get The Background From Image 
+    color: black;
+  }
+ 
+  .one{
+    color: black;
+    background-color:rgb(179,179,179,0.1);
+  }
+  .two{
+    opacity:0.1;
+  }*/
+
+
+table{
+    width: 700px;
+    border-bottom: 2px solid rgb(134, 55, 55);
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+
+table thead td{
+    background-color: gray;
+    color: white;}
+
+table td{       
+    padding: 15px;
+    background-color: rgb(244, 245, 246);
+    border-spacing: 4px;
+    text-align: center;
+}
+ 
+div{
+    display: inline;
+    padding: 10px;
+    margin: 4px;
+    color: white;
+}
+.delete{
+    background-color: rgb(197, 24, 140);
+}
+.view{
+    background-color: rgb(24, 186, 197);
 }
